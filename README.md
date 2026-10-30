@@ -107,7 +107,8 @@ Desarrollado por Keiner Alejandro Rojas Rada.
 
 ---
 
-Si quieres, también puedo dejarte una versión todavía más profesional con:
+Esto es una Generica, Si deseas un Totalmente Personalizada o Con demas Funciones
+Contactame en:
 - banner tipo portfolio,
 - captura de pantalla simulada,
 - sección de demo,
