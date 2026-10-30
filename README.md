@@ -103,7 +103,7 @@ El proyecto incluye imágenes y recursos visuales dentro de la carpeta `SISTEMA 
 
 ## 👨‍💻 Autor
 
-Desarrollado por Keiner.
+Desarrollado por Keiner Alejandro Rojas Rada.
 
 ---
 
